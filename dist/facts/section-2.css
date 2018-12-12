@@ -141,16 +141,16 @@
         margin: 30px 30px 30px 0px; }
       .section-facts-2 .block-1 .details-information h3 {
         font-family: 'Open Sans';
-        font-weight: 600;
+        font-weight: 800;
         color: #494949;
         margin-bottom: 0px;
-        font-size: 30px; }
+        font-size: 33px;}
       .section-facts-2 .block-1 .details-information h4 {
         font-family: 'Open Sans';
-        font-weight: 600;
+        font-weight: 800;
         color: #595959;
         margin-bottom: 0px;
-        padding-top: 10px;
+        padding-top: 0px;
         font-size: 30px;
         padding-bottom: 15px; }
       .section-facts-2 .block-1 .details-information p {
@@ -180,7 +180,7 @@
     background-color: #ffffff;
     position: relative; }
     .section-facts-2 .chemistry-facts .details-chemistry-facts {
-      padding-left: 90px;
+      padding-left: 100px;
       width: 65%; }
       .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title {
         position: relative;
@@ -190,16 +190,16 @@
           box-shadow: none !important; }
         .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title h3 {
           font-family: 'Open Sans';
-          font-weight: 600;
+          font-weight: 800;
           color: #000000;
           margin-bottom: 0px;
-          margin-top: 0;
-          font-size: 35px; }
+          margin-top: 45px;
+          font-size: 40px; }
         .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title img {
           position: absolute;
-          right: 110px;
+          right: 65px;
           top: 0px;
-          width: 55px; }
+          width: 70px; }
       .section-facts-2 .chemistry-facts .details-chemistry-facts span {
         color: #CECEC3;
         font-family: 'Open Sans';
@@ -208,9 +208,9 @@
       .section-facts-2 .chemistry-facts .details-chemistry-facts p {
         font-family: 'Open Sans';
         color: #101010;
-        font-weight: 300;
-        font-size: 20px;
-        width: 695px; }
+        font-weight: 500;
+        font-size: 21px;
+        width: 715px; }
     .section-facts-2 .chemistry-facts .chemistry-image {
       position: absolute;
       bottom: 10px;
@@ -242,7 +242,7 @@
     width: auto;
     margin-left: 10%;
     margin-right: 5%;
-    font-size: 12px; }
+    font-size: 14px; }
   .section-facts-2 .block-1 .comparison-block {
     padding-left: 30px;
     margin-right: 0px; }
@@ -265,7 +265,7 @@
       .section-facts-2 .block-1 .details-information .info-about div p {
         width: 360px !important;}
     .section-facts-2 .block-1 .details-information h4 {
-      margin-left: 15%;
+      margin-left: 10%;
       margin-right: 5%; }
     .section-facts-2 .block-1 .details-information h3 {
       font-size: 20px;
@@ -283,8 +283,9 @@
     width: 35px !important;
     right: 40px !important; }
   .section-facts-2 .details-chemistry-facts p {
-    font-size: 18px !important;
-    /*width: */ } }
+    font-size: 14px !important;
+  }
+  }
 
 @media screen and (max-width: 860px) {
   .section-facts-2 .block-1 .row-element p {
@@ -336,12 +337,12 @@
 
 @media screen and (min-width: 1520px) and (max-width: 1920px) {
  .section-facts-2 .block-1 .details-information .discover-btn {
-  margin: 30px 0px 30px 63%; }
+  margin: 18px 0px 30px 58%;}
 }
 
 @media screen and (max-width: 1260px) {
   .section-facts-2 .chemistry-facts .details-chemistry-facts p{
-    width: 600px;
+    width: 465px;
   }
   .section-facts-2 .chemistry-facts .chemistry-image{
     right: 35px;
@@ -352,60 +353,59 @@
   .section-facts-2 .block-1 .details-information p {
     font-family: 'Open Sans';
     color: #101010;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 22px;
     margin: 0;
 }
   .section-facts-2 .block-1 .details-information p {
-   width: 93% !important;
+    width: 89% !important;
 }
   .section-facts-2 .block-1 .details-information .info-about div p {
     margin: 0 0 10px 0;
-    width: 89% !important;
+    width: 83% !important;
   }
   .section-facts-2 .block-1 .details-information{
-    margin: 0px 0px 0px 45px;
+    margin: 25px 0px 0px 45px;
   }
-
+  
   .section-facts-2 .chemistry-facts .chemistry-image {
     position: absolute;
     bottom: 10px;
     right: 85px;
-    top: -160px;
+    top: -175px;
 }
 
 .section-facts-2 .chemistry-facts .chemistry-image img {
-  width: 250px;
+  width: 285px;
 }
 
 .section-facts-3 .text-block .circle-animation-1 {
   top: 15px!important;
-  left: 200px!important;
+  left: 165px!important;
 }
 
 .section-facts-3 .text-block .circle-animation-1 .brg-technol p {
-  top: 55px!important;
-  left: 10px!important;
+  top: 70px!important;
+  left: 20px!important;
 }
 
 .section-facts-3 .text-block .circle-animation-2 {
-  bottom: -10px!important;
-  left: 90px!important;
+  bottom: 60px!important;
+  left: 60px!important;
 }
 }
 
 @media screen and (min-width: 1440px) and (max-width: 1599px) {
+  .section-facts-2 .block-1 .details-information {
+    padding-top: 50px;
+    margin: 0px 130px 0 180px!important;
+  }
+  
   .section-facts-2 .block-1 .comparison-block .table-facts {
     padding: 15px;
     margin-left: -65px;
   }
-
-  .section-facts-2 .block-1 .details-information {
-    padding-top: 50px;
-    margin: 0px 100px 0 190px;
-    font-size: 12px;
-  }
-
+  
   .section-facts-2 .block-1 .details-information p {
     font-family: 'Open Sans';
     color: #101010;
@@ -413,6 +413,7 @@
     font-size: 20px;
     margin: 0;
   }
+
 
   .section-facts-2 .block-1 .details-information p {
     font-family: 'Open Sans';
@@ -429,7 +430,7 @@
 }
 
 .section-facts-2 .block-1 .details-information .discover-btn {
-  margin: 30px 0px 30px 59%!important;
+  margin: 30px 0px 30px 54%!important;
 }
 
 .section-facts-2 .chemistry-facts .chemistry-image {
@@ -441,16 +442,6 @@
 
 .section-facts-2 .chemistry-facts .chemistry-image img {
   width: 250px;
-}
-
-.section-facts-3 .text-block .circle-animation-2 {
-  bottom: 0px!important;
-  left: 65px!important;
-}
-
-.section-facts-3 .text-block .circle-animation-1 {
-  top: -15px!important;
-  left: 180px!important;
 }
 } 
 
@@ -490,13 +481,37 @@
     margin: 0;
   }
 
+  .section-facts-2 .block-1 .details-information h3 {
+    font-family: 'Open Sans';
+    font-weight: 800;
+    color: #494949;
+    margin-bottom: 0px;
+    font-size: 28px;
+}
   .section-facts-2 .block-1 .details-information p {
     width: 500px;
 }
 
   .section-facts-2 .block-1 .details-information .discover-btn {
-    margin: 30px 0px 31px 55%;
+    margin: 20px 0px 31px 50%
   }
+
+  .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title h3 {
+    font-family: 'Open Sans';
+    font-weight: 800;
+    color: #000000;
+    margin-bottom: 0px;
+    margin-top: 45px;
+    font-size: 35px;
+}
+
+.section-facts-2 .chemistry-facts .details-chemistry-facts p {
+  font-family: 'Open Sans';
+  color: #101010;
+  font-weight: 500;
+  font-size: 18px;
+  width: 640px;
+}
 
   .section-facts-2 .chemistry-facts .chemistry-image {
     position: absolute;
@@ -509,35 +524,7 @@
       width: 250px;
   }
 
-  .section-facts-3 .text-block .circle-animation-2 .img-2-animation-sec-3 {
-    width: 540px!important;
-}
-
-.section-facts-3 .text-block .circle-animation-2 {
-  bottom: 10px!important;
-  left: 50px!important;
-}
-
-.section-facts-3 .text-block .circle-animation-2 .c-block-1 {
-  bottom: 4px!important;
-  left: 73px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-2 {
-  bottom: 17px!important;
-  left: 184px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-3 {
-  bottom: 42px!important;
-  right: 189px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-4 {
-  bottom: 90px!important;
-  right: 93px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-5 {
-  bottom: 169p!important;
-  right: 19px!important;
-}
+  
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1239px) {
@@ -569,40 +556,10 @@
   }
 
   .section-facts-2 .block-1 .details-information .discover-btn {
-    margin: 30px 30px 30px 175px;
+    margin: 25px 25px 25px 165px;
 }
 
-.section-facts-3 .text-block .circle-animation-2 .img-2-animation-sec-3 {
-  width: 415px!important;
+.section-facts-2 .discover-btn {
+  font-size: 11px;
 }
-.section-facts-3 .text-block .circle-animation-2 .c-block-1 img, .section-facts-3 .text-block .circle-animation-2 .c-block-2 img, .section-facts-3 .text-block .circle-animation-2 .c-block-3 img, .section-facts-3 .text-block .circle-animation-2 .c-block-4 img, .section-facts-3 .text-block .circle-animation-2 .c-block-5 img {
-  width: 45px!important;
-  }
-  .section-facts-3 .text-block .circle-animation-2 .c-block-1 {
-  left: 56px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 {
-  left: 45px!important;
-  bottom: 20px!important;
-}
-.section-facts-3 .text-block .circle {
-  left: -14px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-2 {
-  bottom: 13px!important;
-  left: 141px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-3 {
-  bottom: 31px!important;
-  right: 145px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-4 {
-  bottom: 70px!important;
-  right: 72px!important;
-}
-.section-facts-3 .text-block .circle-animation-2 .c-block-5 {
-  bottom: 132px!important;
-  right: 15px!important;
-}
-
 }

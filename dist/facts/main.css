@@ -34,8 +34,9 @@ body {
     width: 70%;}
     @media screen and (min-width: 1520px) and (max-width: 1920px) {
       .row-element p {
-        width: 77%;
-        font-size: 20px;}
+        width: 71%;
+        font-size: 24px;
+        font-weight: 500;}
     }
 
 .total-black-bckg {
@@ -46,7 +47,7 @@ body {
 .img-block {
   text-align: center;
   position: relative;
-  bottom: -55px;
+  bottom: -80px;
    }
   .img-block p {
     color: #282828;
@@ -59,7 +60,7 @@ body {
   .img-block img {
     text-align: center;
     border-radius: 100%;
-    width: 100px;
+    width: 145px;
     box-shadow: 0px 14px 95px -4px #8a6a96; }
 
 .text-block {
@@ -86,13 +87,13 @@ body {
   border-bottom: 5px solid #98CAFE;
   width: 20%;
   margin-top: 0 !important;
-  margin-left: 10%; }
+  margin-left: 14%; }
 
 
   @media screen and (min-width: 1440px) and (max-width: 1520px) {
     .row-element p {
       width: 70%;
-      font-size: 15.4px;
+      font-size: 19px;
     }
     .section-facts-4 .hexagons {
       position: relative;
@@ -141,7 +142,7 @@ body {
   @media screen and (min-width: 1020px) and (max-width: 1259px) {
     .row-element p {
       width: 70%;
-      font-size: 15.4px;
+      font-size: 14px;
     }
   }
 

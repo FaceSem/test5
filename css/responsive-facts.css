@@ -73,23 +73,21 @@
 	}
 } */
 
-@media screen and (max-width: 1440px) {
+@media screen and (min-width: 1240px) and (max-width: 1440px) {
 	.section-facts-3 .text-block .circle-animation-1 {
-		top: 5px;
+		top: -60px;
 		position: absolute;
-		left: 115px;
-	}
-	
-	.section-facts-3 .text-block .circle-animation-1 .brg-technol p {
-		position: absolute;
-		top: 55px;
-		left: 15px;
-		font-weight: bold;
-		text-align: center;
-		color: #4da8f2;
+		left: 150px;
 	}
 }
 
+@media screen and (min-width: 1024px) and (max-width: 1239px) {
+	.section-facts-3 .text-block .circle-animation-1 {
+    top: -45px;
+    position: absolute;
+    left: 140px;
+}
+}
 @media screen and (max-width: 1024px) {
 	.block-2-section-5 .text-block-tab table .text-normal .txt-center{
 		font-size: 12px;

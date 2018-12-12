@@ -1,4 +1,4 @@
-.section-facts-4 {
+ .section-facts-4 {
   padding-top: 10%; }
   .section-facts-4 .text-block {
     display: flex;
@@ -312,10 +312,10 @@
     color: #ffffff;
     padding: 0 2%; }
 
-  @media screen and (min-width: 1600px) and (max-width: 1700px) {   
+  @media screen and (min-width: 1600px) and (max-width: 1920px) {   
   .section-facts-4 .hexagons {
     position: relative;
-    margin-bottom: -60px;
+    margin-bottom: 215px;
    }
   }
 
