@@ -91,14 +91,7 @@ body {
 
 
   @media screen and (min-width: 1440px) and (max-width: 1520px) {
-    .row-element p {
-      width: 70%;
-      font-size: 19px;
-    }
-    .section-facts-4 .hexagons {
-      position: relative;
-      margin-bottom: -4%!important;
-  }
+   
   }
 
   @media screen and (min-width: 1311px) and (max-width: 1439px) {
