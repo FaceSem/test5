@@ -455,11 +455,11 @@
 
 .section-facts-3 .text-block .circle-animation-1 .brg-technol p {
   top: 70px!important;
-  left: 20px!important;
+  left: 10px!important;
 }
 
 .section-facts-3 .text-block .circle-animation-2 {
-  bottom: 60px!important;
+  bottom: 0px!important;
   left: 60px!important;
 }
 }

@@ -34,7 +34,7 @@ body {
     width: 70%;}
     @media screen and (min-width: 1520px) and (max-width: 1920px) {
       .row-element p {
-        width: 71%;
+        width: 80%;
         font-size: 22px;
         font-weight: 500;}
     }
@@ -78,7 +78,9 @@ body {
 .position-fl {
   display: flex;
   flex-direction: column;
-  align-self: center; }
+  align-self: center;
+  margin-top: 10%;
+  margin-left: 15%; }
 .green-line {
   border-bottom: 5px solid #ACFFC2;
   width: 17% !important; }
