@@ -75,10 +75,10 @@
 
 @media screen and (min-width: 1240px) and (max-width: 1440px) {
 	.section-facts-3 .text-block .circle-animation-1 {
-		top: -60px;
-		position: absolute;
+		top: -10px;
 		left: 150px;
 	}
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1239px) {
@@ -132,11 +132,7 @@
    		left: 155px;
 	}
 
-	.section-facts-4 .hexagons .box-7 {
-		top: 5px;
-		left: 280px;
-	}
-
+	
 	.section-facts-4 .hexagons .box-8 {
 		bottom: 143px;
 		left: 275px;
@@ -152,13 +148,7 @@
 		left: 350px;
 	}
 
-	.section-facts-4 .hexagons .box-7 span {
-		position: relative;
-		top: 66px;
-		left: 24px;
-		z-index: 99;
-	}
-
+	
 	.section-facts-2 .chemistry-facts .chemistry-image {
 		position: absolute;
 		bottom: 10px;

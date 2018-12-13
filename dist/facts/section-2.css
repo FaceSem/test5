@@ -209,7 +209,7 @@
         font-family: 'Open Sans';
         color: #101010;
         font-weight: 500;
-        font-size: 21px;
+        font-size: 22px;
         width: 715px; }
     .section-facts-2 .chemistry-facts .chemistry-image {
       position: absolute;
@@ -343,13 +343,82 @@
 @media screen and (max-width: 1260px) {
   .section-facts-2 .chemistry-facts .details-chemistry-facts p{
     width: 465px;
+    font-size: 14px!important;
+    font-weight: 300;
   }
   .section-facts-2 .chemistry-facts .chemistry-image{
     right: 35px;
   }
 }
 
-@media screen and (min-width: 1600px) and (max-width: 1920px) {
+@media screen and (min-width: 1721px) and (max-width: 1920px) {
+  .section-facts-2 .block-1 .details-information p {
+    font-family: 'Open Sans';
+    color: #101010;
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0;
+}
+
+.section-facts-2 .chemistry-facts .details-chemistry-facts p {
+  font-family: 'Open Sans';
+  color: #101010;
+  font-weight: 500;
+  font-size: 24px;
+  width: 715px;
+}
+
+.row-element p {
+  width: 71%;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title img {
+  position: absolute;
+  right: 25px;
+  top: 0px;
+  width: 85px;
+}
+  .section-facts-2 .block-1 .details-information p {
+    width: 89% !important;
+}
+  .section-facts-2 .block-1 .details-information .info-about div p {
+    margin: 0 0 10px 0;
+    width: 83% !important;
+  }
+  .section-facts-2 .block-1 .details-information{
+    margin: 25px 0px 0px 45px;
+  }
+  
+  .section-facts-2 .chemistry-facts .chemistry-image {
+    position: absolute;
+    bottom: 10px;
+    right: 160px;
+    top: -150px;
+}
+
+.section-facts-2 .chemistry-facts .chemistry-image img {
+  width: 330px;
+}
+
+.section-facts-3 .text-block .circle-animation-1 {
+  top: 15px!important;
+  left: 250px!important;
+}
+
+.section-facts-3 .text-block .circle-animation-1 .brg-technol p {
+  top: 70px!important;
+  left: 20px!important;
+}
+
+.section-facts-3 .text-block .circle-animation-2 {
+  bottom: 20px!important;
+  left: 150px!important;
+}
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1720px) {
   .section-facts-2 .block-1 .details-information p {
     font-family: 'Open Sans';
     color: #101010;
@@ -396,6 +465,14 @@
 }
 
 @media screen and (min-width: 1440px) and (max-width: 1599px) {
+  .section-facts-2 .chemistry-facts .details-chemistry-facts p {
+    font-family: 'Open Sans';
+    color: #101010;
+    font-weight: 300;
+    font-size: 18px;
+    width: 715px;
+}
+  
   .section-facts-2 .block-1 .details-information {
     padding-top: 50px;
     margin: 0px 130px 0 180px!important;
@@ -477,7 +554,7 @@
     font-family: 'Open Sans';
     color: #101010;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
   }
 
@@ -508,8 +585,8 @@
 .section-facts-2 .chemistry-facts .details-chemistry-facts p {
   font-family: 'Open Sans';
   color: #101010;
-  font-weight: 500;
-  font-size: 18px;
+  font-weight: 300;
+  font-size: 16px!important;
   width: 640px;
 }
 

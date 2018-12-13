@@ -1,11 +1,11 @@
  .section-facts-4 {
-  padding-top: 10%; }
+  padding-top: 5%; }
   .section-facts-4 .text-block {
     display: flex;
-    padding-top: 50px;
+    padding-top: 115px;
     flex-direction: row;
     background-color: #eefff0;
-    padding-bottom: 10%;
+    padding-bottom: 3%;
   } 
   .section-facts-4 .row-element p {
     margin: 10%;
@@ -14,7 +14,10 @@
 
   .section-facts-4 .hexagons {
     position: relative;
-    margin-bottom: -6%;
+    width: 650px;
+    height: 400px;
+    margin-right: 15%;
+    margin-left: 10%;
    }
     .section-facts-4 .hexagons span {
       color: #282828;
@@ -65,7 +68,7 @@
       bottom: 97%;
       border-bottom: 14.43px solid #ede8de; }
     .section-facts-4 .hexagons .hexagon-2:after {
-      top: 98%;
+      top: 97%;
       width: 0;
       border-top: 14.43px solid #ede8de; }
     .section-facts-4 .hexagons .hexagon-3 {
@@ -87,7 +90,7 @@
       bottom: 98%;
       border-bottom: 23.09px solid #ede8de; }
     .section-facts-4 .hexagons .hexagon-3:after {
-      top: 98%;
+      top: 97%;
       width: 0;
       border-top: 23.09px solid #ede8de; }
       .section-facts-4 .hexagons .hexagon-31 {
@@ -284,13 +287,13 @@
       left: 8px;
       z-index: 99; }
     .section-facts-4 .hexagons .box-7 {
-      top: 15px;
-      left: 280px;
+      top: 16px;
+      left: 285px;
       }    
     .section-facts-4 .hexagons .box-7 span {
       position: relative;
-      top: 66px;
-      left: 25px;
+      top: 64px;
+      left: 26px;
       z-index: 99; }
     .section-facts-4 .hexagons .box-8 {
       bottom: 55px;
@@ -313,10 +316,7 @@
     padding: 0 2%; }
 
   @media screen and (min-width: 1600px) and (max-width: 1920px) {   
-  .section-facts-4 .hexagons {
-    position: relative;
-    margin-bottom: 215px;
-   }
+
   }
 
   @media screen and (min-width: 1521px) and (max-width: 1599px) {
@@ -326,11 +326,13 @@
   @media screen and (min-width: 1440px) and (max-width: 1520px) {
     .row-element p {
       width: 70%;
-      font-size: 19px;
+      font-size: 18px;
+      font-weight: 300;
     }
     .section-facts-4 .hexagons {
       position: relative;
       margin-bottom: 3.6%!important;
+    }
   }
 
   @media screen and (min-width: 1330px) and (max-width: 1439px) {
@@ -355,7 +357,15 @@
   }
 
   @media screen and (min-width: 1024px) and (max-width: 1239px) {
-  .section-facts-4 {
-    padding-top: 10%; 
+    .section-facts-4 {
+      padding-top: 10%; 
+    }
+
+    .section-facts-4 .hexagons {
+      position: relative;
+      width: 650px;
+      height: 485px;
+      margin-right: 16%;
+      margin-left: 8%;
+    }
   }
-}

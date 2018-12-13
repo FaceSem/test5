@@ -35,7 +35,7 @@ body {
     @media screen and (min-width: 1520px) and (max-width: 1920px) {
       .row-element p {
         width: 71%;
-        font-size: 24px;
+        font-size: 22px;
         font-weight: 500;}
     }
 
@@ -135,7 +135,8 @@ body {
   @media screen and (min-width: 1020px) and (max-width: 1259px) {
     .row-element p {
       width: 70%;
-      font-size: 14px;
+      font-size: 16px;
+      font-weight: 300;
     }
   }
 
