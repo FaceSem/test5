@@ -11,16 +11,16 @@
 
 .section-facts-3 .text-block .row-element {
     position: relative;
-    margin-top: 65px;
+    margin-top: 77px;
 }
 
 .section-facts-3 .text-block .row-element p {
-    margin-left: 14%;
+    margin-left: 16%;
 }
 
 .section-facts-3  .bgrn-section-3 {
     background-color: #f6f9fc;
-    padding-bottom: 10%;
+    padding-bottom: 12%;
 }
 /*second pulse*/
 .section-facts-3 .text-block .circle-1 {
@@ -114,7 +114,7 @@
 }
 
 .section-facts-3 .text-block .circle-animation-2 .img-2-animation-sec-3 {
-    width: 605px;
+    width: 630px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .circle-block {
@@ -126,6 +126,7 @@
     min-width: 150px;
     font-size: 18px;
     word-spacing: 0px;
+    line-height: 1.1;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-1,
@@ -148,8 +149,8 @@
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-1 {
-    bottom: 4px;
-    left: 81px
+    bottom: 5px;
+    left: 87px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-1 h3 {
@@ -158,43 +159,43 @@
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-2 {
-    bottom: 17px;
-    left: 205px;
+    bottom: 20px;
+    left: 215px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-2 h3 {
-    top: 65px;
-    left: 30px;
+    top: 63px;
+    left: 53px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-3 {
-    bottom: 47px;
-    right: 211px;
+    bottom: 49px;
+    right: 222px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-3 h3 {
-    bottom: 70px;
-    right: -15px;
+    bottom: 72px;
+    right: 11px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-4 {
-    bottom: 102px;
-    right: 105px;
+    bottom: 106px;
+    right: 111px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-4 h3 {
-    top: 65px;
-    left: 40px;
+    top: 63px;
+    left: 48px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-5 {
-    bottom: 190px;
-    right: 23px;
+    bottom: 197px;
+    right: 24px;
 }
 
 .section-facts-3 .text-block .circle-animation-2 .c-block-5 h3 {
-    bottom: 52px;
-    right: 10px;
+    bottom: 48px;
+    right: 19px;
 }
 
 @media screen and (min-width: 1440px) and (max-width: 1599px) {
@@ -403,7 +404,7 @@
     .discover-btn {
         font-size: 12px;
         float: left;
-        margin: 21px 30px 30px 6.8%;
+        margin: 22px 30px 30px 7.6%;
         padding: 10px 20px;
         text-transform: uppercase;
         font-weight: bold;

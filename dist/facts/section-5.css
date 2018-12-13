@@ -197,6 +197,15 @@
       font-weight: bold;
       font-size: 14px; }
 
+    .row-element-1 {
+      margin-top: 100px;
+
+    }  
+
+    .row-element-2 {
+      margin-top: 60px;
+    }
+
 @media screen and (max-width: 1024px) {
   .section-facts-5 .block-1-section-5 .text-block .row-element p {
     padding-right: 0 !important; }
