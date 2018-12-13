@@ -337,7 +337,7 @@
 
 @media screen and (min-width: 1520px) and (max-width: 1920px) {
  .section-facts-2 .block-1 .details-information .discover-btn {
-  margin: 18px 0px 30px 58%;}
+  margin: 16px 0px 30px 56%;}
 }
 
 @media screen and (max-width: 1260px) {
@@ -570,7 +570,7 @@
 }
 
   .section-facts-2 .block-1 .details-information .discover-btn {
-    margin: 20px 0px 31px 50%
+    margin: 21px 0px 31px 62%;
   }
 
   .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title h3 {
